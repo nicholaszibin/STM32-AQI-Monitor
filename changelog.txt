@@ -1,0 +1,46 @@
+3.0.12
+- Updated to TouchGFX 4.23.0
+- Updated to CubeMX 6.10.0
+
+3.0.11
+- Upgraded to STM32CubeMX 6.9.1
+- Upgraded to Firmware Package FW_L4 1.18.0
+
+3.0.11
+- Upgraded to TouchGFX 4.22.0
+
+3.0.10
+- Upgraded to STM32CubeMX 6.8.0
+
+3.0.9
+- Upgraded to TouchGFX 4.21.0
+- Upgraded to STM32CubeMX 6.7.0
+
+3.0.8
+- Upgraded to TouchGFX 4.20.0
+
+3.0.7
+- Upgraded to TouchGFX 4.19.1
+- Upgraded to STM32CubeMX 6.5.0
+- Upgraded to Firmware Package FW_L4 1.17.2
+- Added GPIO pins (VSYNC_FREQ, RENDER_TIME, FRAME_RATE, MCU_ACTIVE) for performance testing 
+
+3.0.6
+- Upgraded to TouchGFX 4.18.1
+- Upgraded to STM32CubeMX 6.4.0
+- Upgraded to Firmware Package FW_L4 1.17.1
+
+3.0.5
+- Upgraded to TouchGFX 4.18.0
+- Updated the Makefile to use texts.xml isntead of texts.xlsx
+- Removed generation of .bin files for the external flash section
+
+3.0.4
+- Upgraded to STM32CubeMX 6.3.0
+- Removed tasks for touch detection and OSKernel guards in TouchGFXHAL.cpp
+
+3.0.3
+- Upgraded to TouchGFX 4.17.0
+- Upgraded to STM32CubeMX 6.2.1
+- Upgraded to Firmware Package FW_L4 1.17.0
+- Added DefaultTask to allow IP integration out of STM32CubeMX
